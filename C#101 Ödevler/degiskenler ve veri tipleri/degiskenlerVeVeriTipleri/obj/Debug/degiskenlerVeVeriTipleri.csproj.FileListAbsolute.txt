@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\bin\Debug\degiskenlerVeVeriTipleri.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\bin\Debug\degiskenlerVeVeriTipleri.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\bin\Debug\degiskenlerVeVeriTipleri.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\obj\Debug\degiskenlerVeVeriTipleri.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\obj\Debug\degiskenlerVeVeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\obj\Debug\degiskenlerVeVeriTipleri.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\degiskenler ve veri tipleri\degiskenlerVeVeriTipleri\obj\Debug\degiskenlerVeVeriTipleri.pdb
