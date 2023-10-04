@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\bin\Debug\tipDonusumleri.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\bin\Debug\tipDonusumleri.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\bin\Debug\tipDonusumleri.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\obj\Debug\tipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\obj\Debug\tipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\obj\Debug\tipDonusumleri.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tipDonusumleri\obj\Debug\tipDonusumleri.pdb
