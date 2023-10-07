@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\bin\Debug\ifElseTernaryIf.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\bin\Debug\ifElseTernaryIf.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\bin\Debug\ifElseTernaryIf.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\obj\Debug\ifElseTernaryIf.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\obj\Debug\ifElseTernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\obj\Debug\ifElseTernaryIf.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\ifElseTernaryIf\obj\Debug\ifElseTernaryIf.pdb
