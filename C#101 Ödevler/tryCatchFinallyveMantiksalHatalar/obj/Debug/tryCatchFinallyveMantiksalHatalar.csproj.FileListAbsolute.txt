@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\bin\Debug\tryCatchFinallyveMantiksalHatalar.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\bin\Debug\tryCatchFinallyveMantiksalHatalar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\bin\Debug\tryCatchFinallyveMantiksalHatalar.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\obj\Debug\tryCatchFinallyveMantiksalHatalar.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\obj\Debug\tryCatchFinallyveMantiksalHatalar.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\obj\Debug\tryCatchFinallyveMantiksalHatalar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tryCatchFinallyveMantiksalHatalar\obj\Debug\tryCatchFinallyveMantiksalHatalar.pdb
