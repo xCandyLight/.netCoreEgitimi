@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forLoopVeBreakContinue", "forLoopVeBreakContinue.csproj", "{DEB87DE7-2561-41A1-8DBF-FE7660FE5CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEB87DE7-2561-41A1-8DBF-FE7660FE5CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB87DE7-2561-41A1-8DBF-FE7660FE5CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB87DE7-2561-41A1-8DBF-FE7660FE5CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB87DE7-2561-41A1-8DBF-FE7660FE5CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB47F89-8846-4F0D-A44A-2128926113CD}
+	EndGlobalSection
+EndGlobal

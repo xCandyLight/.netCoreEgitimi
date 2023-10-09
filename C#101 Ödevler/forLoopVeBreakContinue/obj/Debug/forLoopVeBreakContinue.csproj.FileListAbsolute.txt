@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\obj\Debug\forLoopVeBreakContinue.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\obj\Debug\forLoopVeBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\bin\Debug\forLoopVeBreakContinue.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\bin\Debug\forLoopVeBreakContinue.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\bin\Debug\forLoopVeBreakContinue.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\obj\Debug\forLoopVeBreakContinue.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\forLoopVeBreakContinue\obj\Debug\forLoopVeBreakContinue.pdb
