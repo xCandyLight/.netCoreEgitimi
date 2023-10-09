@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\bin\Debug\arraySinifiMethodları.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\bin\Debug\arraySinifiMethodları.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\bin\Debug\arraySinifiMethodları.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\obj\Debug\arraySinifiMethodları.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\obj\Debug\arraySinifiMethodları.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\obj\Debug\arraySinifiMethodları.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\arraySinifiMethodları\obj\Debug\arraySinifiMethodları.pdb
