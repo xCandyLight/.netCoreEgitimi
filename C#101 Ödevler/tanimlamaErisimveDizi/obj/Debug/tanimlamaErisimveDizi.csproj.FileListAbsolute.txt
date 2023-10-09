@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\bin\Debug\tanimlamaErisimveDizi.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\bin\Debug\tanimlamaErisimveDizi.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\bin\Debug\tanimlamaErisimveDizi.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\obj\Debug\tanimlamaErisimveDizi.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\obj\Debug\tanimlamaErisimveDizi.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\obj\Debug\tanimlamaErisimveDizi.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\tanimlamaErisimveDizi\obj\Debug\tanimlamaErisimveDizi.pdb
