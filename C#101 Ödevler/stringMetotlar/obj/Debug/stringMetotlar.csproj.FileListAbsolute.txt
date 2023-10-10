@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\bin\Debug\stringMetotlar.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\bin\Debug\stringMetotlar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\bin\Debug\stringMetotlar.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\obj\Debug\stringMetotlar.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\obj\Debug\stringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\obj\Debug\stringMetotlar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\stringMetotlar\obj\Debug\stringMetotlar.pdb
