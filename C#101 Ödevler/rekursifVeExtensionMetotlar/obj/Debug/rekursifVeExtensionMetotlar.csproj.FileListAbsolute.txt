@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\bin\Debug\rekursifVeExtensionMetotlar.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\bin\Debug\rekursifVeExtensionMetotlar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\bin\Debug\rekursifVeExtensionMetotlar.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\obj\Debug\rekursifVeExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\obj\Debug\rekursifVeExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\obj\Debug\rekursifVeExtensionMetotlar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\rekursifVeExtensionMetotlar\obj\Debug\rekursifVeExtensionMetotlar.pdb
