@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\bin\Debug\genericKoleksiyonlarVeList.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\bin\Debug\genericKoleksiyonlarVeList.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\bin\Debug\genericKoleksiyonlarVeList.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\obj\Debug\genericKoleksiyonlarVeList.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\obj\Debug\genericKoleksiyonlarVeList.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\obj\Debug\genericKoleksiyonlarVeList.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\genericKoleksiyonlarVeList\obj\Debug\genericKoleksiyonlarVeList.pdb
