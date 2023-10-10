@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\bin\Debug\datetimeVeMathSinifi.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\bin\Debug\datetimeVeMathSinifi.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\bin\Debug\datetimeVeMathSinifi.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\obj\Debug\datetimeVeMathSinifi.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\obj\Debug\datetimeVeMathSinifi.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\obj\Debug\datetimeVeMathSinifi.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\datetimeVeMathSinifi\obj\Debug\datetimeVeMathSinifi.pdb
