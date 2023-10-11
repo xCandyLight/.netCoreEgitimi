@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\bin\Debug\encapsulationVeProperty.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\bin\Debug\encapsulationVeProperty.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\bin\Debug\encapsulationVeProperty.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\obj\Debug\encapsulationVeProperty.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\obj\Debug\encapsulationVeProperty.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\obj\Debug\encapsulationVeProperty.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\encapsulationVeProperty\obj\Debug\encapsulationVeProperty.pdb
