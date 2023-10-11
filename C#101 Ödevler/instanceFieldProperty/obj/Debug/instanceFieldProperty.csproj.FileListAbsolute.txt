@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\bin\Debug\instanceFieldProperty.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\bin\Debug\instanceFieldProperty.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\bin\Debug\instanceFieldProperty.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\obj\Debug\instanceFieldProperty.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\obj\Debug\instanceFieldProperty.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\obj\Debug\instanceFieldProperty.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\instanceFieldProperty\obj\Debug\instanceFieldProperty.pdb
