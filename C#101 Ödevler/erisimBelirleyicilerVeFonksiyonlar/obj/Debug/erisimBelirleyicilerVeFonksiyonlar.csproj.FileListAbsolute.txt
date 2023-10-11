@@ -1,0 +1,7 @@
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\bin\Debug\erisimBelirleyicilerVeFonksiyonlar.exe.config
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\bin\Debug\erisimBelirleyicilerVeFonksiyonlar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\bin\Debug\erisimBelirleyicilerVeFonksiyonlar.pdb
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\obj\Debug\erisimBelirleyicilerVeFonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\obj\Debug\erisimBelirleyicilerVeFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\obj\Debug\erisimBelirleyicilerVeFonksiyonlar.exe
+C:\Users\ceren.ak\Desktop\Code\Github\.netCoreEgitimi\C#101 Ödevler\erisimBelirleyicilerVeFonksiyonlar\obj\Debug\erisimBelirleyicilerVeFonksiyonlar.pdb
