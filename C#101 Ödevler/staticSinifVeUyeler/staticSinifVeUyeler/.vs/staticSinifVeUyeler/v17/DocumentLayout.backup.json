@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akcer\\Desktop\\me\\Github\\.netCoreEgitimi\\C#101 \u00D6devler\\staticSinifVeUyeler\\staticSinifVeUyeler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85CA69-53E8-4561-99E7-8877B703EA94}|staticSinifVeUyeler.csproj|c:\\users\\akcer\\desktop\\me\\github\\.netcoreegitimi\\c#101 \u00F6devler\\staticsinifveuyeler\\staticsinifveuyeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85CA69-53E8-4561-99E7-8877B703EA94}|staticSinifVeUyeler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akcer\\Desktop\\me\\Github\\.netCoreEgitimi\\C#101 \u00D6devler\\staticSinifVeUyeler\\staticSinifVeUyeler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\akcer\\Desktop\\me\\Github\\.netCoreEgitimi\\C#101 \u00D6devler\\staticSinifVeUyeler\\staticSinifVeUyeler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:14:33.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

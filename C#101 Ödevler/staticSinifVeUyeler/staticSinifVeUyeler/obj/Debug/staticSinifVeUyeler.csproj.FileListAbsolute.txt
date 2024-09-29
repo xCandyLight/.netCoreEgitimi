@@ -1,0 +1,7 @@
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\obj\Debug\staticSinifVeUyeler.csproj.AssemblyReference.cache
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\obj\Debug\staticSinifVeUyeler.csproj.CoreCompileInputs.cache
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\bin\Debug\staticSinifVeUyeler.exe.config
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\bin\Debug\staticSinifVeUyeler.exe
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\bin\Debug\staticSinifVeUyeler.pdb
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\obj\Debug\staticSinifVeUyeler.exe
+C:\Users\akcer\Desktop\me\Github\.netCoreEgitimi\C#101 Ödevler\staticSinifVeUyeler\staticSinifVeUyeler\obj\Debug\staticSinifVeUyeler.pdb
